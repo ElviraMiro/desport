@@ -1,0 +1,122 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "14480cb61040c87c39f378af3069fb114c8aaa74.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/14480cb61040c87c39f378af3069fb114c8aaa74.js",
+      "size": 1574613,
+      "hash": "14480cb61040c87c39f378af3069fb114c8aaa74"
+    },
+    {
+      "path": "78282ed6867c61a7d7191bfbc994dc6dbb0e6f0b.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/78282ed6867c61a7d7191bfbc994dc6dbb0e6f0b.css?meteor_css_resource=true",
+      "size": 464284,
+      "hash": "78282ed6867c61a7d7191bfbc994dc6dbb0e6f0b"
+    },
+    {
+      "path": "packages/chrismbeckett_fontawesome4/lib/fonts/fontawesome-webfont.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/chrismbeckett_fontawesome4/lib/fonts/fontawesome-webfont.eot",
+      "size": 56006,
+      "hash": "0183979056f0b87616cd99d5c54a48f3b771eee6"
+    },
+    {
+      "path": "packages/chrismbeckett_fontawesome4/lib/fonts/fontawesome-webfont.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/chrismbeckett_fontawesome4/lib/fonts/fontawesome-webfont.svg",
+      "size": 287007,
+      "hash": "cd980eab6db5fa57db670cb2e4278e67e1a4d6c9"
+    },
+    {
+      "path": "packages/chrismbeckett_fontawesome4/lib/fonts/fontawesome-webfont.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/chrismbeckett_fontawesome4/lib/fonts/fontawesome-webfont.ttf",
+      "size": 112160,
+      "hash": "6225ccc4ec94d060f19efab97ca42d842845b949"
+    },
+    {
+      "path": "packages/chrismbeckett_fontawesome4/lib/fonts/fontawesome-webfont.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/chrismbeckett_fontawesome4/lib/fonts/fontawesome-webfont.woff",
+      "size": 65452,
+      "hash": "7d65e0227d0d7cdc1718119cd2a7dce0638f151c"
+    },
+    {
+      "path": "packages/chrismbeckett_fontawesome4/lib/fonts/FontAwesome.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/chrismbeckett_fontawesome4/lib/fonts/FontAwesome.otf",
+      "size": 85908,
+      "hash": "6270a4a561a69fef5f5cc18cdf9efc256ec2ccbe"
+    },
+    {
+      "path": "packages/nooitaf_semantic-ui/lib/semantic-ui/themes/default/assets/fonts/icons.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/nooitaf_semantic-ui/lib/semantic-ui/themes/default/assets/fonts/icons.eot",
+      "size": 72449,
+      "hash": "ad0c0513a2fbb7326ac5e11f7c94b95aa23b02e0"
+    },
+    {
+      "path": "packages/nooitaf_semantic-ui/lib/semantic-ui/themes/default/assets/fonts/icons.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/nooitaf_semantic-ui/lib/semantic-ui/themes/default/assets/fonts/icons.svg",
+      "size": 253486,
+      "hash": "819310115a5b5a24d95a57a75f61ff27335998c0"
+    },
+    {
+      "path": "packages/nooitaf_semantic-ui/lib/semantic-ui/themes/default/assets/fonts/icons.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/nooitaf_semantic-ui/lib/semantic-ui/themes/default/assets/fonts/icons.ttf",
+      "size": 141564,
+      "hash": "c59792c0a05a4da1f9202a390a27e2d500c36752"
+    },
+    {
+      "path": "packages/nooitaf_semantic-ui/lib/semantic-ui/themes/default/assets/fonts/icons.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/nooitaf_semantic-ui/lib/semantic-ui/themes/default/assets/fonts/icons.woff",
+      "size": 83760,
+      "hash": "7f2f3c55c2de192387c351b995115f6b79e09173"
+    },
+    {
+      "path": "packages/nooitaf_semantic-ui/lib/semantic-ui/themes/default/assets/images/flags.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/nooitaf_semantic-ui/lib/semantic-ui/themes/default/assets/images/flags.png",
+      "size": 145781,
+      "hash": "d31cd1569c7935b42e667011736dc667a34d2df2"
+    },
+    {
+      "path": "app/images/anonim.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/anonim.png",
+      "size": 44936,
+      "hash": "447d3c6417ab1e4fd04e348f1e7e90562a4e8472"
+    }
+  ]
+}
